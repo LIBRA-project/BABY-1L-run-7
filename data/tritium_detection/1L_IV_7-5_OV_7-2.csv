@@ -1,0 +1,57 @@
+Assay Definition
+
+Assay Description:
+1L BABY Experiment standard count, beginning with run 1L-3
+Assay Type: DPM (Single)
+Report Name: Report1
+Output Data Path: C:\Packard\TriCarb\Results\Default\NEW_Flibe_Long\Various
+Raw Results Path: C:\Packard\Tricarb\Results\Default\NEW_Flibe_Long\20250606_1531\20250606_1531.results
+Comma-Delimited File Name: C:\Packard\TriCarb\Results\Default\NEW_Flibe_Long\Various\1L_IV_7-5_OV_7-2.csv
+Assay File Name: C:\Packard\TriCarb\Assays\NEW_Flibe_Long.lsa
+
+Additional Data Files Generated with this Protocol:
+Report1
+		[Excel]	1L_IV_7-5_OV_7-2.csv
+
+
+Count Conditions
+
+Nuclide: LIBRA UG LLT NM      
+   Quench Indicator: tSIE
+   External Std Terminator (sec): 0.5 2s%
+   Pre-Count Delay (min): 0.00
+Quench Set:                   
+   Low Energy: 3H-UG-LLT-NM-C
+Count Time (min): 100.00
+Count Mode: Normal                                          
+Assay Count Cycles: 1         Repeat Sample Count: 1        
+Number of Vials/Sample: 1     Calculate % Reference: Off                                  
+
+
+Background Subtract: Off
+Low CPM Threshold: Off
+2 Sigma % Terminator: Off
+
+Regions         LL       UL
+A              0.5      5.0
+B              0.5     10.0
+C              0.0     18.6
+
+
+Count Corrections
+
+Static Controller: On         Luminescence Correction: On     GCT: n/a
+Colored Samples: Off          Heterogeneity Monitor: Off      PAC: Disabled
+Coincidence Time (nsec): 18   Delay Before Burst (nsec): 75   PAC Strength: n/a   Auxiliary Spectrum: n/a
+
+
+S#,SMPL_ID,Bq:1,CPMA,LUM,tSIE,Eff Nuc1 In A,Count Time,DPM1
+1,1L-IV_7-5-1,0.285,4.580,0,311.56,26.81,100,17.082
+2,1L-IV_7-5-2,0.284,4.280,0,292.27,25.16,100,17.013
+3,1L-IV_7-5-3,2.625,39.670,0,292.59,25.18,100,157.515
+4,1L-IV_7-5-4,0.433,6.580,0,294.03,25.31,100,25.999
+Missing vial 5.
+6,1L-OV_7-2-1,0.241,4.120,0,338.79,28.48,100,14.466
+7,1L-OV_7-2-2,0.294,4.480,0,294.65,25.36,100,17.664
+8,1L-OV_7-2-3,0.328,4.950,0,292.61,25.19,100,19.653
+9,1L-OV_7-2-4,0.295,4.460,0,293.08,25.23,100,17.679

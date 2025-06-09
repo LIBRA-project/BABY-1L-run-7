@@ -277,10 +277,20 @@
                 "planned_sample_time": "6/5/2025 20:13",
                 "actual_sample_time": "6/5/2025 23:46",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_7-5_OV_7-2_SHORT.csv",
-                    "2": "1L_IV_7-5_OV_7-2_SHORT.csv",
-                    "3": "1L_IV_7-5_OV_7-2_SHORT.csv",
-                    "4": "1L_IV_7-5_OV_7-2_SHORT.csv"
+                    "1": "1L_IV_7-5_OV_7-2.csv",
+                    "2": "1L_IV_7-5_OV_7-2.csv",
+                    "3": "1L_IV_7-5_OV_7-2.csv",
+                    "4": "1L_IV_7-5_OV_7-2.csv"
+                }
+            },
+            "6": {
+                "planned_sample_time": "6/7/2025 08:13",
+                "actual_sample_time": "6/7/2025 11:08",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_7-6_OV_7-3.csv",
+                    "2": "1L_IV_7-6_OV_7-3.csv",
+                    "3": "1L_IV_7-6_OV_7-3.csv",
+                    "4": "1L_IV_7-6_OV_7-3.csv"
                 }
             }
         },
@@ -299,10 +309,20 @@
                 "planned_sample_time": "6/5/2025 20:13",
                 "actual_sample_time": "6/5/2025 23:46",
                 "lsc_vials_filenames": {
-                    "1": "1L_IV_7-5_OV_7-2_SHORT.csv",
-                    "2": "1L_IV_7-5_OV_7-2_SHORT.csv",
-                    "3": "1L_IV_7-5_OV_7-2_SHORT.csv",
-                    "4": "1L_IV_7-5_OV_7-2_SHORT.csv"
+                    "1": "1L_IV_7-5_OV_7-2.csv",
+                    "2": "1L_IV_7-5_OV_7-2.csv",
+                    "3": "1L_IV_7-5_OV_7-2.csv",
+                    "4": "1L_IV_7-5_OV_7-2.csv"
+                }
+            },
+            "3": {
+                "planned_sample_time": "6/7/2025 08:13",
+                "actual_sample_time": "6/7/2025 11:08",
+                "lsc_vials_filenames": {
+                    "1": "1L_IV_7-6_OV_7-3.csv",
+                    "2": "1L_IV_7-6_OV_7-3.csv",
+                    "3": "1L_IV_7-6_OV_7-3.csv",
+                    "4": "1L_IV_7-6_OV_7-3.csv"
                 }
             }
         }
